@@ -1,0 +1,22 @@
+p {
+    color:rgb(103, 128, 128);
+}
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: lighter;
+}
+
+.minhaimagem{
+    margin: 60px;
+    padding: 60px;
+    border: slateblue 4px;
+    background-color: tomato;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+}
+.minhahistoria{
+text-align: left;
+}
